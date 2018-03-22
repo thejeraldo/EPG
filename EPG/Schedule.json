@@ -1,0 +1,438 @@
+{
+  "Channels": [
+    {
+      "name": "ESPN",
+      "number": 1,
+      "programs": [
+        {
+          "title": "EPL MAN @ MCI",
+          "start": 0,
+          "end": 7200
+        },
+        {
+          "title": "EPL ARS @ TOT",
+          "start": 7200,
+          "end": 14400
+        },
+        {
+          "title": "EPL CHE @ LIV",
+          "start": 14400,
+          "end": 21600
+        },
+        {
+          "title": "EPL Highlights",
+          "start": 21600,
+          "end": 23400
+        },
+        {
+          "title": "NBA Game Time",
+          "start": 23400,
+          "end": 25200
+        },
+        {
+          "title": "NBA CLE @ GSW",
+          "start": 25200,
+          "end": 32400
+        },
+        {
+          "title": "NBA SAS @ BOS",
+          "start": 32400,
+          "end": 39600
+        },
+        {
+          "title": "NBA Highlights",
+          "start": 39600,
+          "end": 41400
+        },
+        {
+          "title": "EPL Noon Time Show",
+          "start": 41400,
+          "end": 43200
+        },
+        {
+          "title": "La Liga FCB @ RMA",
+          "start": 43200,
+          "end": 50400
+        },
+        {
+          "title": "La Liga ATM @ SEV",
+          "start": 50400,
+          "end": 57600
+        },
+        {
+          "title": "ESPN 30 for 30 Documentary",
+          "start": 57600,
+          "end": 68400
+        },
+        {
+          "title": "Sports Center",
+          "start": 68400,
+          "end": 72000
+        },
+        {
+          "title": "UEFA Champions League Draw",
+          "start": 72000,
+          "end": 79200
+        },
+        {
+          "title": "UEFA Champions League Preview",
+          "start": 79200,
+          "end": 86400
+        }
+      ]
+    },
+    {
+      "name": "HBO",
+      "number": 2,
+      "programs": [
+        {
+          "title": "Silicon Valley S1E1: Minimum Viable Product",
+          "start": 0,
+          "end": 3600
+        },
+        {
+          "title": "Silicon Valley S1E2: Cap Table",
+          "start": 3600,
+          "end": 7200
+        },
+        {
+          "title": "Silicon Valley S1E3: Articles of Incorporation",
+          "start": 7200,
+          "end": 10800
+        },
+        {
+          "title": "Silicon Valley S1E4: Fiduciary Duties",
+          "start": 10800,
+          "end": 14400
+        },
+        {
+          "title": "Silicon Valley  S1E5: Signaling Risk",
+          "start": 14400,
+          "end": 18000
+
+        },
+        {
+          "title": "Silicon Valley s S1E6: Third Party Insourcing",
+          "start": 18000,
+          "end": 21600
+        },
+        {
+          "title": "Silicon Valley  S1E7: Proof of Concept",
+          "start": 21600,
+          "end": 25200
+        },
+        {
+          "title": "Silicon Valley  S1E8: Optimal Tip-to-Tip Efficiency",
+          "start": 25200,
+          "end": 28800
+        },
+        {
+          "title": "Game of Thrones S1E1: Winter is coming",
+          "start": 28800,
+          "end": 32400
+        },
+        {
+          "title": "Game of Thrones S1E2: The Kingsroad",
+          "start": 32400,
+          "end": 36000
+        },
+        {
+          "title": "Game of Thrones S1E3: Lord Snow",
+          "start": 36000,
+          "end": 39600
+        },
+        {
+          "title": "Game of Thrones S1E4: Cripples, Bastards and Broken Things",
+          "start": 39600,
+          "end": 43200
+        },
+        {
+          "title": "Game of Thrones S1E5: The Wolf and The Lion",
+          "start": 43200,
+          "end": 46800
+        },
+        {
+          "title": "Game of Thrones S1E6: A Golden Crown",
+          "start": 46800,
+          "end": 50400
+        },
+        {
+          "title": "Game of Thrones S1E7: You Win or You Die",
+          "start": 50400,
+          "end": 54000
+        },
+        {
+          "title": "Game of Thrones S1E8: The Pointy End",
+          "start": 54000,
+          "end": 57600
+        },
+        {
+          "title": "Game of Thrones S1E9: Baelor",
+          "start": 57600,
+          "end": 61200
+        },
+        {
+          "title": "Game of Thrones S1E10: Fire and Blood",
+          "start": 61200,
+          "end": 64800
+        },
+        {
+          "title": "Game of Thrones S1E10: Fire and Blood",
+          "start": 64800,
+          "end": 68400
+        },
+        {
+          "title": "Game of Thrones S1E10: Fire and Blood",
+          "start": 68400,
+          "end": 72000
+        },
+        {
+          "title": "Black Panther",
+          "start": 72000,
+          "end": 79200
+        },
+        {
+          "title": "The Avengers: Infinity War",
+          "start": 79200,
+          "end": 86400
+        }
+      ]
+    },
+    {
+      "name": "WWE",
+      "number": 3,
+      "programs": [
+        {
+          "title": "WWE RAW",
+          "start": 0,
+          "end": 7200
+        },
+        {
+          "title": "WWE SmackDown",
+          "start": 7200,
+          "end": 14400
+        },
+        {
+          "title": "WWE NXT",
+          "start": 14400,
+          "end": 21600
+
+        },
+        {
+          "title": "WWE Total Divas",
+          "start": 21600,
+          "end": 28800
+        },
+        {
+          "title": "WWE Music Power 10",
+          "start": 28800,
+          "end": 36000
+        },
+        {
+          "title": "205 Live",
+          "start": 36000,
+          "end": 43200
+        },
+        {
+          "title": "WrestleMania Rewind",
+          "start": 43200,
+          "end": 86400
+        }
+      ]
+    },
+    {
+      "name": "Disney",
+      "number": 2,
+      "programs": [
+        {
+          "title": "Mickey Mouse Club House",
+          "start": 0,
+          "end": 3600
+        },
+        {
+          "title": "Mickey Mouse Club House",
+          "start": 3600,
+          "end": 7200
+        },
+        {
+          "title": "Jessie",
+          "start": 7200,
+          "end": 10800
+        },
+        {
+          "title": "Jessie",
+          "start": 10800,
+          "end": 14400
+        },
+        {
+          "title": "Victorious",
+          "start": 14400,
+          "end": 18000
+
+        },
+        {
+          "title": "Victorious",
+          "start": 18000,
+          "end": 21600
+        },
+        {
+          "title": "Hannah Montana",
+          "start": 21600,
+          "end": 25200
+        },
+        {
+          "title": "Hannah Montana",
+          "start": 25200,
+          "end": 28800
+        },
+        {
+          "title": "Good luck Charlie",
+          "start": 28800,
+          "end": 32400
+        },
+        {
+          "title": "Good luck Charlie",
+          "start": 32400,
+          "end": 36000
+        },
+        {
+          "title": "iCarlie",
+          "start": 36000,
+          "end": 39600
+        },
+        {
+          "title": "iCarlie",
+          "start": 39600,
+          "end": 43200
+        },
+        {
+          "title": "Aladin",
+          "start": 43200,
+          "end": 54000
+        },
+        {
+          "title": "Cinderella",
+          "start": 54000,
+          "end": 61200
+        },
+        {
+          "title": "Beauty and the Beast",
+          "start": 61200,
+          "end": 64800
+        },
+        {
+          "title": "Sleeping Beauty",
+          "start": 64800,
+          "end": 64800
+        },
+        {
+          "title": "Mickey Mouse Movie",
+          "start": 61200,
+          "end": 72000
+        },
+        {
+          "title": "The Little Mermaid",
+          "start": 72000,
+          "end": 86400
+        }
+      ]
+    },
+    {
+      "name": "Cartoon Network",
+      "number": 5,
+      "programs": [
+        {
+          "title": "Adventure Time",
+          "start": 0,
+          "end": 3600
+        },
+        {
+          "title": "Teen Titans",
+          "start": 3600,
+          "end": 7200
+        },
+        {
+          "title": "Ben 10",
+          "start": 7200,
+          "end": 10800
+        },
+        {
+          "title": "Steven Universe",
+          "start": 10800,
+          "end": 14400
+        },
+        {
+          "title": "Regular Show",
+          "start": 14400,
+          "end": 18000
+
+        },
+        {
+          "title": "We Bare Bears",
+          "start": 18000,
+          "end": 21600
+        },
+        {
+          "title": "The Powerpuff Girls",
+          "start": 21600,
+          "end": 25200
+        },
+        {
+          "title": "Clarence",
+          "start": 25200,
+          "end": 28800
+        },
+        {
+          "title": "Gumball",
+          "start": 28800,
+          "end": 32400
+        },
+        {
+          "title": "Johnny Bravo",
+          "start": 32400,
+          "end": 36000
+        },
+        {
+          "title": "Dexter",
+          "start": 36000,
+          "end": 39600
+        },
+        {
+          "title": "Grim",
+          "start": 39600,
+          "end": 43200
+        },
+        {
+          "title": "Chowder",
+          "start": 43200,
+          "end": 54000
+        },
+        {
+          "title": "Ed, Edd and Eddy",
+          "start": 54000,
+          "end": 61200
+        },
+        {
+          "title": "Courage",
+          "start": 61200,
+          "end": 64800
+        },
+        {
+          "title": "Samurai Jack",
+          "start": 64800,
+          "end": 64800
+        },
+        {
+          "title": "Johnny Test",
+          "start": 61200,
+          "end": 72000
+        },
+        {
+          "title": "Dreamworks Dragons",
+          "start": 72000,
+          "end": 86400
+        }
+      ]
+    }
+  ]
+}

@@ -7,6 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		34027CED206121F5003F6E0B /* ChannelViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34027CEC206121F5003F6E0B /* ChannelViewModel.swift */; };
+		34027CEE206121F5003F6E0B /* ChannelViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34027CEC206121F5003F6E0B /* ChannelViewModel.swift */; };
+		34027CEF206121F5003F6E0B /* ChannelViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34027CEC206121F5003F6E0B /* ChannelViewModel.swift */; };
+		34027CF1206121FD003F6E0B /* ProgramViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34027CF0206121FD003F6E0B /* ProgramViewModel.swift */; };
+		34027CF2206121FD003F6E0B /* ProgramViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34027CF0206121FD003F6E0B /* ProgramViewModel.swift */; };
+		34027CF3206121FD003F6E0B /* ProgramViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34027CF0206121FD003F6E0B /* ProgramViewModel.swift */; };
+		34027CF520638D5B003F6E0B /* Schedule.json in Resources */ = {isa = PBXBuildFile; fileRef = 34027CF420638D5B003F6E0B /* Schedule.json */; };
+		34027CF82063A6BB003F6E0B /* EPGCollectionViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34027CF72063A6BB003F6E0B /* EPGCollectionViewLayout.swift */; };
+		34027CF92063A6BB003F6E0B /* EPGCollectionViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34027CF72063A6BB003F6E0B /* EPGCollectionViewLayout.swift */; };
+		34027CFA2063A6BB003F6E0B /* EPGCollectionViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34027CF72063A6BB003F6E0B /* EPGCollectionViewLayout.swift */; };
+		34027CFD2063A974003F6E0B /* EPGCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34027CFB2063A974003F6E0B /* EPGCollectionViewCell.swift */; };
+		34027CFE2063A974003F6E0B /* EPGCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34027CFB2063A974003F6E0B /* EPGCollectionViewCell.swift */; };
+		34027CFF2063A974003F6E0B /* EPGCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34027CFB2063A974003F6E0B /* EPGCollectionViewCell.swift */; };
+		34027D002063A974003F6E0B /* EPGCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 34027CFC2063A974003F6E0B /* EPGCollectionViewCell.xib */; };
+		34027D012063A974003F6E0B /* EPGCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 34027CFC2063A974003F6E0B /* EPGCollectionViewCell.xib */; };
+		34027D022063A974003F6E0B /* EPGCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 34027CFC2063A974003F6E0B /* EPGCollectionViewCell.xib */; };
+		340C79672063DD01000C8538 /* ProgramCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 340C79652063DD01000C8538 /* ProgramCollectionViewCell.swift */; };
+		340C79682063DD01000C8538 /* ProgramCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 340C79652063DD01000C8538 /* ProgramCollectionViewCell.swift */; };
+		340C79692063DD01000C8538 /* ProgramCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 340C79652063DD01000C8538 /* ProgramCollectionViewCell.swift */; };
+		340C796A2063DD01000C8538 /* ProgramCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 340C79662063DD01000C8538 /* ProgramCollectionViewCell.xib */; };
+		340C796B2063DD01000C8538 /* ProgramCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 340C79662063DD01000C8538 /* ProgramCollectionViewCell.xib */; };
+		340C796C2063DD01000C8538 /* ProgramCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 340C79662063DD01000C8538 /* ProgramCollectionViewCell.xib */; };
+		340C796F2063E561000C8538 /* TimeCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 340C796D2063E561000C8538 /* TimeCollectionViewCell.swift */; };
+		340C79702063E561000C8538 /* TimeCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 340C796D2063E561000C8538 /* TimeCollectionViewCell.swift */; };
+		340C79712063E561000C8538 /* TimeCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 340C796D2063E561000C8538 /* TimeCollectionViewCell.swift */; };
+		340C79722063E561000C8538 /* TimeCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 340C796E2063E561000C8538 /* TimeCollectionViewCell.xib */; };
+		340C79732063E561000C8538 /* TimeCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 340C796E2063E561000C8538 /* TimeCollectionViewCell.xib */; };
+		340C79742063E561000C8538 /* TimeCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 340C796E2063E561000C8538 /* TimeCollectionViewCell.xib */; };
 		3462E7D0205C5E3D00C888AB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3462E7CF205C5E3D00C888AB /* AppDelegate.swift */; };
 		3462E7D2205C5E3D00C888AB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3462E7D1205C5E3D00C888AB /* ViewController.swift */; };
 		3462E7D5205C5E3D00C888AB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3462E7D3205C5E3D00C888AB /* Main.storyboard */; };
@@ -14,6 +42,18 @@
 		3462E7DA205C5E3D00C888AB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3462E7D8205C5E3D00C888AB /* LaunchScreen.storyboard */; };
 		3462E7E5205C5E3D00C888AB /* EPGTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3462E7E4205C5E3D00C888AB /* EPGTests.swift */; };
 		3462E7F0205C5E3D00C888AB /* EPGUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3462E7EF205C5E3D00C888AB /* EPGUITests.swift */; };
+		3490F8FB205E8F92000D3994 /* Channel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3490F8FA205E8F92000D3994 /* Channel.swift */; };
+		3490F8FC205E8F92000D3994 /* Channel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3490F8FA205E8F92000D3994 /* Channel.swift */; };
+		3490F8FD205E8F92000D3994 /* Channel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3490F8FA205E8F92000D3994 /* Channel.swift */; };
+		3490F8FF205E8F9A000D3994 /* Program.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3490F8FE205E8F9A000D3994 /* Program.swift */; };
+		3490F900205E8F9A000D3994 /* Program.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3490F8FE205E8F9A000D3994 /* Program.swift */; };
+		3490F901205E8F9A000D3994 /* Program.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3490F8FE205E8F9A000D3994 /* Program.swift */; };
+		34970E102063C61F00DB7F46 /* ChannelCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34970E0E2063C61F00DB7F46 /* ChannelCollectionViewCell.swift */; };
+		34970E112063C61F00DB7F46 /* ChannelCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34970E0E2063C61F00DB7F46 /* ChannelCollectionViewCell.swift */; };
+		34970E122063C61F00DB7F46 /* ChannelCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34970E0E2063C61F00DB7F46 /* ChannelCollectionViewCell.swift */; };
+		34970E132063C61F00DB7F46 /* ChannelCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 34970E0F2063C61F00DB7F46 /* ChannelCollectionViewCell.xib */; };
+		34970E142063C61F00DB7F46 /* ChannelCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 34970E0F2063C61F00DB7F46 /* ChannelCollectionViewCell.xib */; };
+		34970E152063C61F00DB7F46 /* ChannelCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 34970E0F2063C61F00DB7F46 /* ChannelCollectionViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +74,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		34027CEC206121F5003F6E0B /* ChannelViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelViewModel.swift; sourceTree = "<group>"; };
+		34027CF0206121FD003F6E0B /* ProgramViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgramViewModel.swift; sourceTree = "<group>"; };
+		34027CF420638D5B003F6E0B /* Schedule.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Schedule.json; sourceTree = "<group>"; };
+		34027CF72063A6BB003F6E0B /* EPGCollectionViewLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EPGCollectionViewLayout.swift; sourceTree = "<group>"; };
+		34027CFB2063A974003F6E0B /* EPGCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EPGCollectionViewCell.swift; sourceTree = "<group>"; };
+		34027CFC2063A974003F6E0B /* EPGCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = EPGCollectionViewCell.xib; sourceTree = "<group>"; };
+		340C79652063DD01000C8538 /* ProgramCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgramCollectionViewCell.swift; sourceTree = "<group>"; };
+		340C79662063DD01000C8538 /* ProgramCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProgramCollectionViewCell.xib; sourceTree = "<group>"; };
+		340C796D2063E561000C8538 /* TimeCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeCollectionViewCell.swift; sourceTree = "<group>"; };
+		340C796E2063E561000C8538 /* TimeCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TimeCollectionViewCell.xib; sourceTree = "<group>"; };
 		3462E7CC205C5E3D00C888AB /* EPG.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EPG.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3462E7CF205C5E3D00C888AB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3462E7D1205C5E3D00C888AB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +97,10 @@
 		3462E7EB205C5E3D00C888AB /* EPGUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EPGUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3462E7EF205C5E3D00C888AB /* EPGUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EPGUITests.swift; sourceTree = "<group>"; };
 		3462E7F1205C5E3D00C888AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3490F8FA205E8F92000D3994 /* Channel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Channel.swift; sourceTree = "<group>"; };
+		3490F8FE205E8F9A000D3994 /* Program.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Program.swift; sourceTree = "<group>"; };
+		34970E0E2063C61F00DB7F46 /* ChannelCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelCollectionViewCell.swift; sourceTree = "<group>"; };
+		34970E0F2063C61F00DB7F46 /* ChannelCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ChannelCollectionViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +128,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		34027CEB206121DD003F6E0B /* View Models */ = {
+			isa = PBXGroup;
+			children = (
+				34027CEC206121F5003F6E0B /* ChannelViewModel.swift */,
+				34027CF0206121FD003F6E0B /* ProgramViewModel.swift */,
+			);
+			path = "View Models";
+			sourceTree = "<group>";
+		};
+		34027CF62063A6A5003F6E0B /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				34027CF72063A6BB003F6E0B /* EPGCollectionViewLayout.swift */,
+				34027CFB2063A974003F6E0B /* EPGCollectionViewCell.swift */,
+				34027CFC2063A974003F6E0B /* EPGCollectionViewCell.xib */,
+				34970E0E2063C61F00DB7F46 /* ChannelCollectionViewCell.swift */,
+				34970E0F2063C61F00DB7F46 /* ChannelCollectionViewCell.xib */,
+				340C79652063DD01000C8538 /* ProgramCollectionViewCell.swift */,
+				340C79662063DD01000C8538 /* ProgramCollectionViewCell.xib */,
+				340C796D2063E561000C8538 /* TimeCollectionViewCell.swift */,
+				340C796E2063E561000C8538 /* TimeCollectionViewCell.xib */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		3462E7C3205C5E3D00C888AB = {
 			isa = PBXGroup;
 			children = (
@@ -97,12 +176,16 @@
 		3462E7CE205C5E3D00C888AB /* EPG */ = {
 			isa = PBXGroup;
 			children = (
+				34027CF62063A6A5003F6E0B /* Views */,
+				3490F8F9205E8F86000D3994 /* Models */,
+				34027CEB206121DD003F6E0B /* View Models */,
 				3462E7CF205C5E3D00C888AB /* AppDelegate.swift */,
 				3462E7D1205C5E3D00C888AB /* ViewController.swift */,
 				3462E7D3205C5E3D00C888AB /* Main.storyboard */,
 				3462E7D6205C5E3D00C888AB /* Assets.xcassets */,
 				3462E7D8205C5E3D00C888AB /* LaunchScreen.storyboard */,
 				3462E7DB205C5E3D00C888AB /* Info.plist */,
+				34027CF420638D5B003F6E0B /* Schedule.json */,
 			);
 			path = EPG;
 			sourceTree = "<group>";
@@ -123,6 +206,15 @@
 				3462E7F1205C5E3D00C888AB /* Info.plist */,
 			);
 			path = EPGUITests;
+			sourceTree = "<group>";
+		};
+		3490F8F9205E8F86000D3994 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				3490F8FA205E8F92000D3994 /* Channel.swift */,
+				3490F8FE205E8F9A000D3994 /* Program.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -233,8 +325,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				3462E7DA205C5E3D00C888AB /* LaunchScreen.storyboard in Resources */,
+				340C79722063E561000C8538 /* TimeCollectionViewCell.xib in Resources */,
 				3462E7D7205C5E3D00C888AB /* Assets.xcassets in Resources */,
+				34970E132063C61F00DB7F46 /* ChannelCollectionViewCell.xib in Resources */,
+				34027CF520638D5B003F6E0B /* Schedule.json in Resources */,
+				34027D002063A974003F6E0B /* EPGCollectionViewCell.xib in Resources */,
 				3462E7D5205C5E3D00C888AB /* Main.storyboard in Resources */,
+				340C796A2063DD01000C8538 /* ProgramCollectionViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -242,6 +339,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				34970E142063C61F00DB7F46 /* ChannelCollectionViewCell.xib in Resources */,
+				340C79732063E561000C8538 /* TimeCollectionViewCell.xib in Resources */,
+				340C796B2063DD01000C8538 /* ProgramCollectionViewCell.xib in Resources */,
+				34027D012063A974003F6E0B /* EPGCollectionViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,6 +350,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				34970E152063C61F00DB7F46 /* ChannelCollectionViewCell.xib in Resources */,
+				340C79742063E561000C8538 /* TimeCollectionViewCell.xib in Resources */,
+				340C796C2063DD01000C8538 /* ProgramCollectionViewCell.xib in Resources */,
+				34027D022063A974003F6E0B /* EPGCollectionViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,8 +364,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3490F8FF205E8F9A000D3994 /* Program.swift in Sources */,
+				34027CFD2063A974003F6E0B /* EPGCollectionViewCell.swift in Sources */,
 				3462E7D2205C5E3D00C888AB /* ViewController.swift in Sources */,
+				340C79672063DD01000C8538 /* ProgramCollectionViewCell.swift in Sources */,
+				34970E102063C61F00DB7F46 /* ChannelCollectionViewCell.swift in Sources */,
+				3490F8FB205E8F92000D3994 /* Channel.swift in Sources */,
 				3462E7D0205C5E3D00C888AB /* AppDelegate.swift in Sources */,
+				34027CF82063A6BB003F6E0B /* EPGCollectionViewLayout.swift in Sources */,
+				34027CED206121F5003F6E0B /* ChannelViewModel.swift in Sources */,
+				340C796F2063E561000C8538 /* TimeCollectionViewCell.swift in Sources */,
+				34027CF1206121FD003F6E0B /* ProgramViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -268,7 +382,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				340C79682063DD01000C8538 /* ProgramCollectionViewCell.swift in Sources */,
 				3462E7E5205C5E3D00C888AB /* EPGTests.swift in Sources */,
+				3490F8FC205E8F92000D3994 /* Channel.swift in Sources */,
+				34970E112063C61F00DB7F46 /* ChannelCollectionViewCell.swift in Sources */,
+				34027CEE206121F5003F6E0B /* ChannelViewModel.swift in Sources */,
+				34027CFE2063A974003F6E0B /* EPGCollectionViewCell.swift in Sources */,
+				34027CF92063A6BB003F6E0B /* EPGCollectionViewLayout.swift in Sources */,
+				34027CF2206121FD003F6E0B /* ProgramViewModel.swift in Sources */,
+				3490F900205E8F9A000D3994 /* Program.swift in Sources */,
+				340C79702063E561000C8538 /* TimeCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,7 +399,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				340C79692063DD01000C8538 /* ProgramCollectionViewCell.swift in Sources */,
 				3462E7F0205C5E3D00C888AB /* EPGUITests.swift in Sources */,
+				3490F8FD205E8F92000D3994 /* Channel.swift in Sources */,
+				34970E122063C61F00DB7F46 /* ChannelCollectionViewCell.swift in Sources */,
+				34027CEF206121F5003F6E0B /* ChannelViewModel.swift in Sources */,
+				34027CFF2063A974003F6E0B /* EPGCollectionViewCell.swift in Sources */,
+				34027CFA2063A6BB003F6E0B /* EPGCollectionViewLayout.swift in Sources */,
+				34027CF3206121FD003F6E0B /* ProgramViewModel.swift in Sources */,
+				3490F901205E8F9A000D3994 /* Program.swift in Sources */,
+				340C79712063E561000C8538 /* TimeCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
