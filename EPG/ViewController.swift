@@ -87,13 +87,6 @@ class ViewController: UIViewController {
                   var start = programItem["start"] as! Int
                   var end = programItem["end"] as! Int
 
-                  // Handle local time.
-                  /*let calendar = Calendar.current
-                  let today = calendar.startOfDay(for: Date()) // 2018-03-21 20:00:00 +0000
-                  let timeIntervalToday = today.timeIntervalSince1970
-                  start = start + Int(timeIntervalToday)
-                  end = end + Int(timeIntervalToday)*/
-
                   let program = Program(title: title, schedule: Schedule(start: TimeInterval(start), end: TimeInterval(end)))
                   channel.programs?.append(program)
                 }
